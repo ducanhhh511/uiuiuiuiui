@@ -1,0 +1,9 @@
+Kỹ năng cơ bản về Git:
+1 - Git là gì, tại sao cần Git?
++ Là công cụ giúp quản lý source code  và code nhóm hiệu quả 
+Bài toán: 
++ Có nhiều dịch vụ cung cấp sẵn Git: Github, Gitlap, Bitbucket...
+2 - Demo quản lý sourcr code với Git: 
++ Đky taì khoản Github: github.com
++ Tạo repository/ kho lưu trữ để lưu trữ source code
++
